@@ -1398,5 +1398,14 @@
     "rev": "v0.123.0",
     "spdx": "MPL-2.0",
     "vendorHash": "sha256-K6Khgg9sAG2S/onFUlVG5mZfMtvpvVJeU6YQOyA4Liw="
+  },
+  "unifi": {
+    "hash": "sha256-FwwjHWwUUtOwZZh0YeUbSnSLFH1Q80ALFHhd0tCAZNQ=",
+    "homepage": "https://registry.terraform.io/providers/paultyng/unifi",
+    "owner": "paultyng",
+    "repo": "terraform-provider-unifi",
+    "rev": "v0.41.0",
+    "spdx": "MPL-2.0",
+    "vendorHash": "sha256-K6Khgg9sAG2S/onFUlVG5mZfMtvpvVJeU6YQOyA4Liw="
   }
 }
