@@ -1400,12 +1400,12 @@
     "vendorHash": "sha256-K6Khgg9sAG2S/onFUlVG5mZfMtvpvVJeU6YQOyA4Liw="
   },
   "unifi": {
-    "hash": "sha256-FwwjHWwUUtOwZZh0YeUbSnSLFH1Q80ALFHhd0tCAZNQ=",
+    "hash": "sha256-SQOw2z8ICpH2/VY+NfDfwLOHbxoUxjDgoL2rXAfOmLY=",
     "homepage": "https://registry.terraform.io/providers/paultyng/unifi",
     "owner": "paultyng",
     "repo": "terraform-provider-unifi",
     "rev": "v0.41.0",
     "spdx": "MPL-2.0",
-    "vendorHash": "sha256-K6Khgg9sAG2S/onFUlVG5mZfMtvpvVJeU6YQOyA4Liw="
+    "vendorHash": null
   }
 }
