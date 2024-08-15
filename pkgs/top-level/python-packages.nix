@@ -11982,6 +11982,8 @@ self: super: with self; {
 
   pyowm = callPackage ../development/python-modules/pyowm { };
 
+  pypager = callPackage ../development/python-modules/pypager { };
+
   pypamtest = toPythonModule (pkgs.libpam-wrapper.override {
     enablePython = true;
     inherit python;
@@ -14225,6 +14227,8 @@ self: super: with self; {
   send2trash = callPackage ../development/python-modules/send2trash { };
 
   sendgrid = callPackage ../development/python-modules/sendgrid { };
+
+  senf = callPackage ../development/python-modules/senf { };
 
   sense-energy = callPackage ../development/python-modules/sense-energy { };
 
